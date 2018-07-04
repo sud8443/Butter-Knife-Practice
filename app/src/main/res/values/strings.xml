@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Butter Knife Practice</string>
+    <string name="button_text">Click Me!</string>
+    <string name="button_two_text">This is Button 2</string>
+    <string name="text_button_clicked">Button Clicked!</string>
+    <string name="text_button_pressed">Button Pressed</string>
+    <string name="text_button_released">Button Released</string>
+    <string name="text_hello_world">Hello World</string>
+</resources>
